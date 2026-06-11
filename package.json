@@ -1,0 +1,12 @@
+{
+  "name": "kgrpc-all",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kgrpc-all.mjs",
+  "devDependencies": {},
+  "dependencies": {
+    "ws": "8.18.3"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
